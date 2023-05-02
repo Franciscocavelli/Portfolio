@@ -81,6 +81,14 @@ function Aboutme(promp) {
               <br />{promp.aboutmeWhyworkme7Desc}
             </p>
           </div>
+          <div className="containerAboutme__workmeStats__St">
+            <p>
+              <span>{promp.aboutmeWhyworkme8Title}</span>
+              <br />
+              <i class="fa-solid fa-medal"></i>
+              <br />{promp.aboutmeWhyworkme8Desc}
+            </p>
+          </div>
         </div>
       </div>
     </div>

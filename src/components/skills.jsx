@@ -8,7 +8,6 @@ import laravel from '../media/skills/laravel.png'
 import react from '../media/skills/react.png'
 import jquery from '../media/skills/jquery.png'
 import ajax from '../media/skills/ajax.png'
-import ps from '../media/skills/ps.png'
 import sass from '../media/skills/sass.png'
 
 const Skills = (promp) => {
@@ -56,10 +55,6 @@ const Skills = (promp) => {
         <div className="container__containerAll__skill">
           <img src={laravel} alt='laravel'/>
           <p className='lanShow'>Laravel<br/><br/>★★☆☆☆</p>
-        </div>
-        <div className="container__containerAll__skill">
-          <img src={ps} alt='ps'/>
-          <p className='lanShow'>Photoshop<br/><br/>★★★☆☆</p>
         </div>
       </div>
       <div className="container__skills_options">
