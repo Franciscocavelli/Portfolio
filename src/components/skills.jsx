@@ -18,43 +18,43 @@ const Skills = (promp) => {
       <div className="container__containerAll">
         <div className="container__containerAll__skill">
           <img src={html} alt='html'/>
-          <p className='lanShow'>HTML<br/><br/>★★★★☆</p>
+          <p className='lanShow'>HTML</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={css} alt='css'/>
-          <p className='lanShow'>CSS<br/><br/>★★★★☆</p>
+          <p className='lanShow'>CSS</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={js} alt='js'/>
-          <p className='lanShow'>JavaScript<br/><br/>★★★☆☆</p>
+          <p className='lanShow'>JavaScript</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={php} alt='php'/>
-          <p className='lanShow'>PHP MySql<br/><br/>★★★☆☆</p>
+          <p className='lanShow'>PHP MySql</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={python} alt='python'/>
-          <p className='lanShow'>Python<br/><br/>★☆☆☆☆</p>
+          <p className='lanShow'>Python</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={sass} alt='sass'/>
-          <p className='lanShow'>Sass<br/><br/>★★★☆☆</p>
+          <p className='lanShow'>Sass</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={react} alt='react'/>
-          <p className='lanShow'>React<br/><br/>★★☆☆☆</p>
+          <p className='lanShow'>React</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={ajax} alt='ajax'/>
-          <p className='lanShow'>Ajax<br/><br/>★★☆☆☆</p>
+          <p className='lanShow'>Ajax</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={jquery} alt='jquery'/>
-          <p className='lanShow'>Jquery<br/><br/>★★☆☆☆</p>
+          <p className='lanShow'>Jquery</p>
         </div>
         <div className="container__containerAll__skill">
           <img src={laravel} alt='laravel'/>
-          <p className='lanShow'>Laravel<br/><br/>★★☆☆☆</p>
+          <p className='lanShow'>Laravel</p>
         </div>
       </div>
       <div className="container__skills_options">
