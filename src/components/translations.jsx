@@ -60,7 +60,7 @@ const translations = {
       projectsworksApp1Title: "System of sales and delivery",
       projectsworksApp1Desc: "In this case, i make a web app to control the sales and delivery, for a mineral water company, specially maked with PHP and Mysql. The sellers can control things like, see the list of customers ready for each, the list to delivery, addresses, etc. The office can see the administrative options, charge the bills or print the details, and many more custom characteristics.",
       projectsworksApp2Title: "Video Game Skin Shop",
-      projectsworksApp2Desc: "n this case, i maked a web page for a client, who request me if i can create a one for his store of CSGO skins. I use the api of Mercado Pago for charge the money, and the prices are extracted for api of Steam because there are fluctuating.",
+      projectsworksApp2Desc: "In this case, i maked a web page for a client, who request me if i can create a one for his store of CSGO skins. I use the api of Mercado Pago for charge the money, and the prices are extracted for api of Steam because there are fluctuating.",
       projectsworksApp3Title: "Typical applications of a starter developer",
       projectsworksApp3Desc: "In this case, to show my knowledge of React, i maked basic aplications with React, like calcualtor, comments page and button clicker. Today i try to apply ReactJS to the front-end.",
       contactTitle: "Contact",

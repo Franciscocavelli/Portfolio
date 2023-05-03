@@ -698,7 +698,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: aparecier 3s infinite;
 }
 
 .loader img {
