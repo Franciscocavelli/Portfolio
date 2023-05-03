@@ -703,7 +703,7 @@ footer {
 .loader img {
   animation: rotate 3s infinite;
   opacity: 0;
-  width: 20vw;
+  width: 200px;
 }
 
 @keyframes aparecier {
