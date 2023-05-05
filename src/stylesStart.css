@@ -444,9 +444,7 @@ nav ul li a:not(.hover) {
   height: 100%;
   filter: saturate(0);
   margin: 0;
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
-  object-fit: cover;
+  opacity: .4;
 }
 
 .worksprojects__project img {
@@ -454,9 +452,13 @@ nav ul li a:not(.hover) {
   height: 100%;
   filter: saturate(0);
   margin: 0;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
-  object-fit: cover;
+  opacity: .4;
+}
+
+.worksprojects__project__img {
+  background: #ee464059;
+  width: 100%;
+  height: 100%;
 }
 
 .worksprojects__project:hover {
@@ -479,8 +481,8 @@ nav ul li a:not(.hover) {
 
 .worksprojects__project img:hover {
   filter: saturate(1);
-  transform: scale(1.1);
   transition: 0.5s;
+  opacity: 1;
 }
 
 .worksprojects__project img:not(.hover) {
@@ -489,8 +491,8 @@ nav ul li a:not(.hover) {
 
 .worksprojects__projectIzq img:hover {
   filter: saturate(1);
-  transform: scale(1.1);
   transition: 0.5s;
+  opacity: 1;
 }
 
 .worksprojects__projectIzq img:not(.hover) {
@@ -946,6 +948,9 @@ footer {
   }
 
   .worksprojects__project img {
+    display: none;
+  }
+  .worksprojects__project__img {
     display: none;
   }
   .contact__text {
