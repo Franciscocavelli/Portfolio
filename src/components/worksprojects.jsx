@@ -1,7 +1,6 @@
 import React from "react";
 import app1 from '../media/projects/app1.JPG'
 import app2 from '../media/projects/app2.jpeg'
-import app3 from '../media/projects/app3.png'
 
 const Worksprojects = (promp) => {
   return (
