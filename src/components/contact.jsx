@@ -12,10 +12,7 @@ const Contact = (promp) => {
       </p>
       <a href="mailto:francavelli@hotmail.com?Subject=Hola%20quisiera%20contactar%20contigo." className="contact__buttonHi"><button>{promp.contactgreetme}</button></a>
       <div className="contact__social">
-        <a href="https://www.linkedin.com/in/francisco-tomas-cavelli-montini-7841a1184/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
-        <a href="https://www.instagram.com/francavelli/" target="_blank" rel="noreferrer"><i class="fa-brands fa-instagram"></i></a>
-        <a href="https://www.facebook.com/profile.php?id=100068511679059" target="_blank" rel="noreferrer"><i class="fa-brands fa-facebook"></i></a>
-        <a href="https://twitter.com/FranCavelli" target="_blank" rel="noreferrer"><i class="fa-brands fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/in/francisco-cavelli/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
       </div>
     </div>
   );
